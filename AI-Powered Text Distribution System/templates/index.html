@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yazı Dağıtım Sistemi</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Yapay Zekâ Destekli Yazı Dağıtım Sistemi</h1>
+        <form action="/analyze" method="POST" enctype="multipart/form-data">
+            <label for="file">PDF Dosyanızı Yükleyin:</label>
+            <input type="file" name="file" accept=".pdf" required>
+            <button type="submit">Analiz Et</button>
+        </form>
+        <div class="footer">
+            © 2024 Yapay Zekâ Destekli Yazı Dağıtım Sistemi. Tüm Hakları Saklıdır.
+        </div>
+    </div>
+</body>
+</html>

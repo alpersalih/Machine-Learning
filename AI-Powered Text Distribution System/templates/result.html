@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analiz Sonucu</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Analiz Sonucu</h1>
+        <div class="result-box">
+            <p><strong>Atanan Birim:</strong> {{ assigned_unit }}</p>
+            <p><strong>Önemli Kelimeler:</strong> {{ explanation['important_words'] }}</p>
+            <p><strong>Güven Skoru:</strong> {{ explanation['confidence'] }}</p>
+        </div>
+        <div class="footer">
+            © 2024 Yapay Zekâ Destekli Yazı Dağıtım Sistemi. Tüm Hakları Saklıdır.
+        </div>
+    </div>
+</body>
+</html>

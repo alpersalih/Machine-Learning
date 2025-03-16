@@ -1,0 +1,361 @@
+﻿Belge ID,Birim,Belge Başlığı,Belge İçeriği
+1,İnsan Kaynakları,İşten Ayrılma Bildirimi,"Çalışan Banu Sarı, evlilik hazırlıkları nedeniyle işten ayrılma talebini iletmiştir. Ayrılış tarihi 30 Ağustos olarak belirlenmiştir. Devir teslim planı hazırlanmıştır."
+2,İnsan Kaynakları,Disiplin Kararı Bildirimi,"Çalışan Ahmet Yılmaz, davranış kuralları ihlali olayı nedeniyle disiplin kuruluna sevk edilmiştir. Kurul sonucu yazılı uyarı olarak açıklanmıştır."
+3,İnsan Kaynakları,Disiplin Kararı Bildirimi,"Çalışan Zeynep Korkmaz, gizlilik ihlali olayı nedeniyle disiplin kuruluna sevk edilmiştir. Kurul sonucu görev değişikliği olarak açıklanmıştır."
+4,İnsan Kaynakları,Terfi Bildirimi,"Çalışan Banu Sarı, başarılı performansı sonucunda Departman Müdürü pozisyonuna terfi etmiştir. Terfi tarihi 15 Temmuz olarak belirlenmiştir. Tebrik ederiz."
+5,İnsan Kaynakları,Terfi Bildirimi,"Çalışan Ahmet Yılmaz, başarılı performansı sonucunda Kıdemli Uzman pozisyonuna terfi etmiştir. Terfi tarihi 30 Ağustos olarak belirlenmiştir. Tebrik ederiz."
+6,İnsan Kaynakları,Yeni Çalışan Oryantasyonu,"Yeni işe başlayan Hakan Özdemir, 15 Ocak tarihinde oryantasyon programına katılım sağlamıştır. Program detayları ve içerikleri ekte yer almaktadır."
+7,İnsan Kaynakları,Disiplin Kararı Bildirimi,"Çalışan Mehmet Kaya, etik kural ihlali olayı nedeniyle disiplin kuruluna sevk edilmiştir. Kurul sonucu görev değişikliği olarak açıklanmıştır."
+8,İnsan Kaynakları,Eğitim Katılım Raporu,"Ahmet Yılmaz, veri analitiği eğitimi eğitimine katılım sağlamıştır. Eğitimin içeriği ve sonuç raporu ekte yer almaktadır. Eğitim sonrası başarı oranı %80 olarak ölçülmüştür."
+9,İnsan Kaynakları,Çalışan Şikayeti,"Çalışan Zeynep Korkmaz, fazla mesai ile ilgili şikayetini İnsan Kaynakları'na iletmiştir. Sorunun çözülmesi için gerekli birimler bilgilendirilmiş ve bir aksiyon planı oluşturulmuştur."
+10,İnsan Kaynakları,Çalışan İzin Talebi,"Çalışan Deniz Öztürk, yıllık izin nedeniyle yıllık izin talebinde bulunmuştur. İzin süresi 1 Ocak - 14 Mayıs tarihleri arasını kapsamaktadır. Talep edilen izin, Banu Uysal tarafından onay beklemektedir."
+11,İnsan Kaynakları,Eğitim Katılım Raporu,"Deniz Öztürk, liderlik eğitimi eğitimine katılım sağlamıştır. Eğitimin içeriği ve sonuç raporu ekte yer almaktadır. Eğitim sonrası başarı oranı %80 olarak ölçülmüştür."
+12,İnsan Kaynakları,Terfi Bildirimi,"Çalışan Ayşe Demir, başarılı performansı sonucunda Birim Sorumlusu pozisyonuna terfi etmiştir. Terfi tarihi 30 Ağustos olarak belirlenmiştir. Tebrik ederiz."
+13,İnsan Kaynakları,Yeni Çalışan Oryantasyonu,"Yeni işe başlayan Ayşe Demir, 15 Temmuz tarihinde oryantasyon programına katılım sağlamıştır. Program detayları ve içerikleri ekte yer almaktadır."
+14,İnsan Kaynakları,Terfi Bildirimi,"Çalışan Banu Sarı, başarılı performansı sonucunda Birim Sorumlusu pozisyonuna terfi etmiştir. Terfi tarihi 30 Ağustos olarak belirlenmiştir. Tebrik ederiz."
+15,İnsan Kaynakları,Yeni Çalışan Oryantasyonu,"Yeni işe başlayan Hakan Özdemir, 25 Aralık tarihinde oryantasyon programına katılım sağlamıştır. Program detayları ve içerikleri ekte yer almaktadır."
+16,İnsan Kaynakları,İşten Ayrılma Bildirimi,"Çalışan Hakan Özdemir, sağlık sorunu nedeniyle işten ayrılma talebini iletmiştir. Ayrılış tarihi 1 Eylül olarak belirlenmiştir. Devir teslim planı hazırlanmıştır."
+17,İnsan Kaynakları,Yeni Çalışan Oryantasyonu,"Yeni işe başlayan Zeynep Korkmaz, 15 Ocak tarihinde oryantasyon programına katılım sağlamıştır. Program detayları ve içerikleri ekte yer almaktadır."
+18,İnsan Kaynakları,Terfi Bildirimi,"Çalışan Ahmet Yılmaz, başarılı performansı sonucunda Kıdemli Uzman pozisyonuna terfi etmiştir. Terfi tarihi 20 Şubat olarak belirlenmiştir. Tebrik ederiz."
+19,İnsan Kaynakları,Eğitim Katılım Raporu,"Zeynep Korkmaz, müşteri ilişkileri eğitimi eğitimine katılım sağlamıştır. Eğitimin içeriği ve sonuç raporu ekte yer almaktadır. Eğitim sonrası başarı oranı %80 olarak ölçülmüştür."
+20,İnsan Kaynakları,Terfi Bildirimi,"Çalışan Mehmet Kaya, başarılı performansı sonucunda Birim Sorumlusu pozisyonuna terfi etmiştir. Terfi tarihi 30 Ağustos olarak belirlenmiştir. Tebrik ederiz."
+21,İnsan Kaynakları,Performans Değerlendirme,"Deniz Öztürk, yıl sonu performans değerlendirmesinde C not almıştır. Değerlendirme kriterleri arasında hedef gerçekleştirme, takım çalışması ve problem çözme becerileri yer almaktadır. Detaylı rapor ekte sunulmuştur."
+22,İnsan Kaynakları,Performans Değerlendirme,"Ahmet Yılmaz, yıl sonu performans değerlendirmesinde D not almıştır. Değerlendirme kriterleri arasında hedef gerçekleştirme, takım çalışması ve problem çözme becerileri yer almaktadır. Detaylı rapor ekte sunulmuştur."
+23,İnsan Kaynakları,Performans Değerlendirme,"Deniz Öztürk, yıl sonu performans değerlendirmesinde C not almıştır. Değerlendirme kriterleri arasında hedef gerçekleştirme, takım çalışması ve problem çözme becerileri yer almaktadır. Detaylı rapor ekte sunulmuştur."
+24,İnsan Kaynakları,Çalışan Şikayeti,"Çalışan Banu Sarı, personel sorunları ile ilgili şikayetini İnsan Kaynakları'na iletmiştir. Sorunun çözülmesi için gerekli birimler bilgilendirilmiş ve bir aksiyon planı oluşturulmuştur."
+25,İnsan Kaynakları,Yeni Çalışan Oryantasyonu,"Yeni işe başlayan Fatma Özkan, 30 Mayıs tarihinde oryantasyon programına katılım sağlamıştır. Program detayları ve içerikleri ekte yer almaktadır."
+26,İnsan Kaynakları,Performans Değerlendirme,"Ayşe Demir, yıl sonu performans değerlendirmesinde A not almıştır. Değerlendirme kriterleri arasında hedef gerçekleştirme, takım çalışması ve problem çözme becerileri yer almaktadır. Detaylı rapor ekte sunulmuştur."
+27,İnsan Kaynakları,Çalışan Şikayeti,"Çalışan Ali Çelik, ödeme gecikmesi ile ilgili şikayetini İnsan Kaynakları'na iletmiştir. Sorunun çözülmesi için gerekli birimler bilgilendirilmiş ve bir aksiyon planı oluşturulmuştur."
+28,İnsan Kaynakları,İşten Ayrılma Bildirimi,"Çalışan Ahmet Yılmaz, sağlık sorunu nedeniyle işten ayrılma talebini iletmiştir. Ayrılış tarihi 20 Şubat olarak belirlenmiştir. Devir teslim planı hazırlanmıştır."
+29,İnsan Kaynakları,Terfi Bildirimi,"Çalışan Ayşe Demir, başarılı performansı sonucunda Birim Sorumlusu pozisyonuna terfi etmiştir. Terfi tarihi 1 Eylül olarak belirlenmiştir. Tebrik ederiz."
+30,İnsan Kaynakları,Yeni Çalışan Oryantasyonu,"Yeni işe başlayan Ali Çelik, 15 Ocak tarihinde oryantasyon programına katılım sağlamıştır. Program detayları ve içerikleri ekte yer almaktadır."
+31,İnsan Kaynakları,Terfi Bildirimi,"Çalışan Mehmet Kaya, başarılı performansı sonucunda Kıdemli Uzman pozisyonuna terfi etmiştir. Terfi tarihi 20 Şubat olarak belirlenmiştir. Tebrik ederiz."
+32,İnsan Kaynakları,Terfi Bildirimi,"Çalışan Ahmet Yılmaz, başarılı performansı sonucunda Proje Yöneticisi pozisyonuna terfi etmiştir. Terfi tarihi 1 Eylül olarak belirlenmiştir. Tebrik ederiz."
+33,İnsan Kaynakları,Yeni Çalışan Oryantasyonu,"Yeni işe başlayan Zeynep Korkmaz, 20 Şubat tarihinde oryantasyon programına katılım sağlamıştır. Program detayları ve içerikleri ekte yer almaktadır."
+34,İnsan Kaynakları,Eğitim Katılım Raporu,"Deniz Öztürk, liderlik eğitimi eğitimine katılım sağlamıştır. Eğitimin içeriği ve sonuç raporu ekte yer almaktadır. Eğitim sonrası başarı oranı %80 olarak ölçülmüştür."
+35,İnsan Kaynakları,Çalışan Şikayeti,"Çalışan Ahmet Yılmaz, fazla mesai ile ilgili şikayetini İnsan Kaynakları'na iletmiştir. Sorunun çözülmesi için gerekli birimler bilgilendirilmiş ve bir aksiyon planı oluşturulmuştur."
+36,İnsan Kaynakları,Disiplin Kararı Bildirimi,"Çalışan Deniz Öztürk, etik kural ihlali olayı nedeniyle disiplin kuruluna sevk edilmiştir. Kurul sonucu eğitime yönlendirme olarak açıklanmıştır."
+37,İnsan Kaynakları,Çalışan Şikayeti,"Çalışan Zeynep Korkmaz, personel sorunları ile ilgili şikayetini İnsan Kaynakları'na iletmiştir. Sorunun çözülmesi için gerekli birimler bilgilendirilmiş ve bir aksiyon planı oluşturulmuştur."
+38,İnsan Kaynakları,Yeni Çalışan Oryantasyonu,"Yeni işe başlayan Zeynep Korkmaz, 1 Eylül tarihinde oryantasyon programına katılım sağlamıştır. Program detayları ve içerikleri ekte yer almaktadır."
+39,İnsan Kaynakları,Çalışan Şikayeti,"Çalışan Ayşe Demir, ödeme gecikmesi ile ilgili şikayetini İnsan Kaynakları'na iletmiştir. Sorunun çözülmesi için gerekli birimler bilgilendirilmiş ve bir aksiyon planı oluşturulmuştur."
+40,İnsan Kaynakları,Performans Değerlendirme,"Banu Sarı, yıl sonu performans değerlendirmesinde D not almıştır. Değerlendirme kriterleri arasında hedef gerçekleştirme, takım çalışması ve problem çözme becerileri yer almaktadır. Detaylı rapor ekte sunulmuştur."
+41,Mali İşler,Bütçe Revizyonu Bildirimi,2024 yılı Eğitim ve Gelişim departmanı bütçesinde %5 oranında revizyon yapılmıştır. Revize edilen bütçe detayları ekte yer almaktadır.
+42,Mali İşler,Bütçe Onayı,"2024 yılı için hazırlanan bütçe planında Teknik Destek departmanına ayrılan bütçe, geçen yıla göre %10 artış göstermiştir. Bütçe detayları ve onay süreci için ilgili belgeler ekte yer almaktadır."
+43,Mali İşler,Vergi Ödeme Bildirimi,Şirketimize ait vergi yükümlülükleri için 30 Haziran tarihine kadar ödeme yapılması gerekmektedir. Evrakların ilgili departmanlara gönderilmesi talep edilmiştir.
+44,Mali İşler,Fatura Uyuşmazlığı,EcoTech firmasına ait 20.000 TL tutarındaki faturada hatalı ödeme kalemleri tespit edilmiştir. Firmadan güncellenmiş fatura talep edilmiştir.
+45,Mali İşler,Ödeme Planı Bildirimi,"XYZ Firması firması ile yapılan anlaşmaya göre 200.000 TL tutarındaki ödeme, 36 taksitte gerçekleştirilecektir. İlk ödeme tarihi 30 Mayıs olarak belirlenmiştir."
+46,Mali İşler,Fatura Uyuşmazlığı,Green Supplies firmasına ait 10.000 TL tutarındaki faturada hatalı ödeme kalemleri tespit edilmiştir. Firmadan güncellenmiş fatura talep edilmiştir.
+47,Mali İşler,Bütçe Revizyonu Bildirimi,2024 yılı İnsan Kaynakları departmanı bütçesinde %5 oranında revizyon yapılmıştır. Revize edilen bütçe detayları ekte yer almaktadır.
+48,Mali İşler,Bütçe Revizyonu Bildirimi,2024 yılı Eğitim ve Gelişim departmanı bütçesinde %5 oranında revizyon yapılmıştır. Revize edilen bütçe detayları ekte yer almaktadır.
+49,Mali İşler,Bütçe Revizyonu Bildirimi,2024 yılı Mali İşler departmanı bütçesinde %5 oranında revizyon yapılmıştır. Revize edilen bütçe detayları ekte yer almaktadır.
+50,Mali İşler,Mali Risk Raporu,"Temmuz-Eylül dönemi için yapılan finansal analiz sonucunda, mali risk faktörleri değerlendirilmiştir. Rapor ve alınması önerilen önlemler ekte sunulmuştur."
+51,Mali İşler,Bütçe Revizyonu Bildirimi,2024 yılı Genel Müdürlük departmanı bütçesinde %5 oranında revizyon yapılmıştır. Revize edilen bütçe detayları ekte yer almaktadır.
+52,Mali İşler,Bütçe Revizyonu Bildirimi,2024 yılı Genel Müdürlük departmanı bütçesinde %5 oranında revizyon yapılmıştır. Revize edilen bütçe detayları ekte yer almaktadır.
+53,Mali İşler,Gelir-Gider Raporu,"Geçtiğimiz çeyrekte toplam gelir 1.000.000 TL, toplam gider 350.000 TL olarak hesaplanmıştır. Net kar marjı %12 olarak belirlenmiştir. Ayrıntılı rapor ekte sunulmuştur."
+54,Mali İşler,Bütçe Revizyonu Bildirimi,2024 yılı Teknik Destek departmanı bütçesinde %5 oranında revizyon yapılmıştır. Revize edilen bütçe detayları ekte yer almaktadır.
+55,Mali İşler,Bütçe Onayı,"2024 yılı için hazırlanan bütçe planında Mali İşler departmanına ayrılan bütçe, geçen yıla göre %10 artış göstermiştir. Bütçe detayları ve onay süreci için ilgili belgeler ekte yer almaktadır."
+56,Mali İşler,Mali Risk Raporu,"Nisan-Haziran dönemi için yapılan finansal analiz sonucunda, mali risk faktörleri değerlendirilmiştir. Rapor ve alınması önerilen önlemler ekte sunulmuştur."
+57,Mali İşler,Bütçe Revizyonu Bildirimi,2024 yılı Eğitim ve Gelişim departmanı bütçesinde %5 oranında revizyon yapılmıştır. Revize edilen bütçe detayları ekte yer almaktadır.
+58,Mali İşler,Mali Risk Raporu,"Ocak-Mart dönemi için yapılan finansal analiz sonucunda, mali risk faktörleri değerlendirilmiştir. Rapor ve alınması önerilen önlemler ekte sunulmuştur."
+59,Mali İşler,Bütçe Revizyonu Bildirimi,2024 yılı İnsan Kaynakları departmanı bütçesinde %5 oranında revizyon yapılmıştır. Revize edilen bütçe detayları ekte yer almaktadır.
+60,Mali İşler,Fatura Uyuşmazlığı,EcoTech firmasına ait 100.000 TL tutarındaki faturada hatalı ödeme kalemleri tespit edilmiştir. Firmadan güncellenmiş fatura talep edilmiştir.
+61,Mali İşler,Vergi Ödeme Bildirimi,Şirketimize ait vergi yükümlülükleri için 10 Mart tarihine kadar ödeme yapılması gerekmektedir. Evrakların ilgili departmanlara gönderilmesi talep edilmiştir.
+62,Mali İşler,Ödeme Planı Bildirimi,"Global Market firması ile yapılan anlaşmaya göre 10.000 TL tutarındaki ödeme, 36 taksitte gerçekleştirilecektir. İlk ödeme tarihi 20 Şubat olarak belirlenmiştir."
+63,Mali İşler,Bütçe Revizyonu Bildirimi,2024 yılı İnsan Kaynakları departmanı bütçesinde %5 oranında revizyon yapılmıştır. Revize edilen bütçe detayları ekte yer almaktadır.
+64,Mali İşler,Gelir-Gider Raporu,"Geçtiğimiz çeyrekte toplam gelir 500.000 TL, toplam gider 600.000 TL olarak hesaplanmıştır. Net kar marjı %12 olarak belirlenmiştir. Ayrıntılı rapor ekte sunulmuştur."
+65,Mali İşler,Fatura Uyuşmazlığı,ABC Tedarik firmasına ait 10.000 TL tutarındaki faturada hatalı ödeme kalemleri tespit edilmiştir. Firmadan güncellenmiş fatura talep edilmiştir.
+66,Mali İşler,Fatura Uyuşmazlığı,Global Market firmasına ait 10.000 TL tutarındaki faturada hatalı ödeme kalemleri tespit edilmiştir. Firmadan güncellenmiş fatura talep edilmiştir.
+67,Mali İşler,Bütçe Revizyonu Bildirimi,2024 yılı Genel Müdürlük departmanı bütçesinde %5 oranında revizyon yapılmıştır. Revize edilen bütçe detayları ekte yer almaktadır.
+68,Mali İşler,Bütçe Revizyonu Bildirimi,2024 yılı Teknik Destek departmanı bütçesinde %5 oranında revizyon yapılmıştır. Revize edilen bütçe detayları ekte yer almaktadır.
+69,Mali İşler,Vergi Ödeme Bildirimi,Şirketimize ait vergi yükümlülükleri için 15 Temmuz tarihine kadar ödeme yapılması gerekmektedir. Evrakların ilgili departmanlara gönderilmesi talep edilmiştir.
+70,Mali İşler,Banka İşlem Bildirimi,Y Bank bankasında yapılan Yatırım işlemi sonucunda 100.000 TL aktarılmıştır. İşlem detayları ve dekont ekte yer almaktadır.
+71,Mali İşler,Bütçe Onayı,"2024 yılı için hazırlanan bütçe planında İnsan Kaynakları departmanına ayrılan bütçe, geçen yıla göre %10 artış göstermiştir. Bütçe detayları ve onay süreci için ilgili belgeler ekte yer almaktadır."
+72,Mali İşler,Bütçe Revizyonu Bildirimi,2024 yılı Eğitim ve Gelişim departmanı bütçesinde %5 oranında revizyon yapılmıştır. Revize edilen bütçe detayları ekte yer almaktadır.
+73,Mali İşler,Fatura Uyuşmazlığı,Tech Solutions firmasına ait 10.000 TL tutarındaki faturada hatalı ödeme kalemleri tespit edilmiştir. Firmadan güncellenmiş fatura talep edilmiştir.
+74,Mali İşler,Bütçe Revizyonu Bildirimi,2024 yılı Mali İşler departmanı bütçesinde %5 oranında revizyon yapılmıştır. Revize edilen bütçe detayları ekte yer almaktadır.
+75,Mali İşler,Fatura Uyuşmazlığı,Secure Systems firmasına ait 50.000 TL tutarındaki faturada hatalı ödeme kalemleri tespit edilmiştir. Firmadan güncellenmiş fatura talep edilmiştir.
+76,Mali İşler,Bütçe Onayı,"2024 yılı için hazırlanan bütçe planında Satın Alma departmanına ayrılan bütçe, geçen yıla göre %10 artış göstermiştir. Bütçe detayları ve onay süreci için ilgili belgeler ekte yer almaktadır."
+77,Mali İşler,Vergi Ödeme Bildirimi,Şirketimize ait vergi yükümlülükleri için 25 Nisan tarihine kadar ödeme yapılması gerekmektedir. Evrakların ilgili departmanlara gönderilmesi talep edilmiştir.
+78,Mali İşler,Banka İşlem Bildirimi,B Bank bankasında yapılan Tahsilat işlemi sonucunda 20.000 TL aktarılmıştır. İşlem detayları ve dekont ekte yer almaktadır.
+79,Mali İşler,Fatura Uyuşmazlığı,Secure Systems firmasına ait 50.000 TL tutarındaki faturada hatalı ödeme kalemleri tespit edilmiştir. Firmadan güncellenmiş fatura talep edilmiştir.
+80,Mali İşler,Banka İşlem Bildirimi,B Bank bankasında yapılan Yatırım işlemi sonucunda 200.000 TL aktarılmıştır. İşlem detayları ve dekont ekte yer almaktadır.
+81,Satın Alma,Yeni Satın Alma Politikası,2024 yılı itibariyle şirketin satın alma süreçlerinde çevre dostu ve sürdürülebilir ürünlere öncelik verilecektir. Bu doğrultuda yeni tedarikçi listesi oluşturulmuştur.
+82,Satın Alma,Tedarikçi Değerlendirme,Secure Systems firmasıyla yapılan işbirliği sonucu teslimat sürelerinde aksaklık yaşandığı tespit edilmiştir. Tedarikçiden iyileştirme planı talep edilmiştir.
+83,Satın Alma,Stok Takip Raporu,Hukuk departmanında bulunan bilgisayar ürünlerinin stok seviyesi %10'un altına düşmüştür. Acil sipariş gereksinimi doğmuştur.
+84,Satın Alma,Tedarikçi Değerlendirme,Global Market firmasıyla yapılan işbirliği sonucu teslimat sürelerinde aksaklık yaşandığı tespit edilmiştir. Tedarikçiden iyileştirme planı talep edilmiştir.
+85,Satın Alma,Tedarik Süreci Gecikme Bildirimi,ABC Tedarik firmasından alınan kağıt ve toner ürünlerinin teslimatında lojistik sorunlar nedeniyle gecikme yaşanmıştır. Yeni teslim tarihi 15 Ocak olarak belirlenmiştir.
+86,Satın Alma,Yeni Satın Alma Politikası,2024 yılı itibariyle şirketin satın alma süreçlerinde çevre dostu ve sürdürülebilir ürünlere öncelik verilecektir. Bu doğrultuda yeni tedarikçi listesi oluşturulmuştur.
+87,Satın Alma,Tedarik Süreci Gecikme Bildirimi,XYZ Firması firmasından alınan yazıcı ürünlerinin teslimatında force majeure nedeniyle gecikme yaşanmıştır. Yeni teslim tarihi 15 Nisan olarak belirlenmiştir.
+88,Satın Alma,Tedarik Süreci Gecikme Bildirimi,Tech Solutions firmasından alınan bilgisayar ürünlerinin teslimatında tedarik zinciri aksaklığı nedeniyle gecikme yaşanmıştır. Yeni teslim tarihi 25 Temmuz olarak belirlenmiştir.
+89,Satın Alma,Yeni Satın Alma Politikası,2024 yılı itibariyle şirketin satın alma süreçlerinde çevre dostu ve sürdürülebilir ürünlere öncelik verilecektir. Bu doğrultuda yeni tedarikçi listesi oluşturulmuştur.
+90,Satın Alma,Teklif Toplama Raporu,bilgisayar ürünleri için 15 tedarikçiden fiyat teklifi alınmıştır. En uygun teklif EcoSupply tarafından sunulmuştur.
+91,Satın Alma,Tedarik Süreci Gecikme Bildirimi,ABC Tedarik firmasından alınan bilgisayar ürünlerinin teslimatında üretim gecikmesi nedeniyle gecikme yaşanmıştır. Yeni teslim tarihi 15 Ocak olarak belirlenmiştir.
+92,Satın Alma,Stok Takip Raporu,Genel Müdürlük departmanında bulunan proje ekranı ürünlerinin stok seviyesi %10'un altına düşmüştür. Acil sipariş gereksinimi doğmuştur.
+93,Satın Alma,Teklif Toplama Raporu,klavye ve mouse ürünleri için 3 tedarikçiden fiyat teklifi alınmıştır. En uygun teklif Global Tech tarafından sunulmuştur.
+94,Satın Alma,Malzeme Sipariş Talebi,Eğitim ve Gelişim departmanında kullanılan ofis sandalyesi ürünleri stokta kalmamıştır. Acil sipariş gereksinimi doğmuştur. Teklif veren firmalar arasında en uygun fiyat Tech Solutions tarafından sunulmuştur.
+95,Satın Alma,Teklif Toplama Raporu,kağıt ve toner ürünleri için 7 tedarikçiden fiyat teklifi alınmıştır. En uygun teklif ABC Ltd. tarafından sunulmuştur.
+96,Satın Alma,Tedarikçi Değerlendirme,EcoTech firmasıyla yapılan işbirliği sonucu teslimat sürelerinde aksaklık yaşandığı tespit edilmiştir. Tedarikçiden iyileştirme planı talep edilmiştir.
+97,Satın Alma,Tedarik Süreci Gecikme Bildirimi,Green Supplies firmasından alınan kağıt ve toner ürünlerinin teslimatında gümrük işlemleri nedeniyle gecikme yaşanmıştır. Yeni teslim tarihi 25 Temmuz olarak belirlenmiştir.
+98,Satın Alma,Tedarikçi Değerlendirme,Green Supplies firmasıyla yapılan işbirliği sonucu teslimat sürelerinde aksaklık yaşandığı tespit edilmiştir. Tedarikçiden iyileştirme planı talep edilmiştir.
+99,Satın Alma,Teklif Toplama Raporu,bilgisayar ürünleri için 7 tedarikçiden fiyat teklifi alınmıştır. En uygun teklif EcoSupply tarafından sunulmuştur.
+100,Satın Alma,Satın Alma Sözleşmesi,ABC Tedarik firması ile 1 Ekim 2024 tarihinde tedarik sözleşmesi imzalanmıştır. Sözleşme detayları ekte yer almaktadır.
+101,Satın Alma,Ürün İade İşlemi,kağıt ve toner ürünlerinde tespit edilen kusurlar nedeniyle toplam 100.000 TL tutarındaki ürünler tedarikçiye iade edilmiştir.
+102,Satın Alma,Teklif Toplama Raporu,klavye ve mouse ürünleri için 7 tedarikçiden fiyat teklifi alınmıştır. En uygun teklif SmartVendor tarafından sunulmuştur.
+103,Satın Alma,Yeni Satın Alma Politikası,2024 yılı itibariyle şirketin satın alma süreçlerinde çevre dostu ve sürdürülebilir ürünlere öncelik verilecektir. Bu doğrultuda yeni tedarikçi listesi oluşturulmuştur.
+104,Satın Alma,Tedarik Süreci Gecikme Bildirimi,EcoTech firmasından alınan proje ekranı ürünlerinin teslimatında gümrük işlemleri nedeniyle gecikme yaşanmıştır. Yeni teslim tarihi 15 Nisan olarak belirlenmiştir.
+105,Satın Alma,Tedarik Süreci Gecikme Bildirimi,Secure Systems firmasından alınan sunucu yedek parçası ürünlerinin teslimatında tedarik zinciri aksaklığı nedeniyle gecikme yaşanmıştır. Yeni teslim tarihi 15 Ekim olarak belirlenmiştir.
+106,Satın Alma,Ürün İade İşlemi,hard disk ürünlerinde tespit edilen kusurlar nedeniyle toplam 75.000 TL tutarındaki ürünler tedarikçiye iade edilmiştir.
+107,Satın Alma,Satın Alma Sözleşmesi,Green Supplies firması ile 1 Ocak 2024 tarihinde ortaklık sözleşmesi imzalanmıştır. Sözleşme detayları ekte yer almaktadır.
+108,Satın Alma,Tedarik Süreci Gecikme Bildirimi,Green Supplies firmasından alınan yazıcı ürünlerinin teslimatında lojistik sorunlar nedeniyle gecikme yaşanmıştır. Yeni teslim tarihi 25 Temmuz olarak belirlenmiştir.
+109,Satın Alma,Tedarik Süreci Gecikme Bildirimi,Green Supplies firmasından alınan hard disk ürünlerinin teslimatında tedarik zinciri aksaklığı nedeniyle gecikme yaşanmıştır. Yeni teslim tarihi 15 Nisan olarak belirlenmiştir.
+110,Satın Alma,Ürün İade İşlemi,sunucu yedek parçası ürünlerinde tespit edilen kusurlar nedeniyle toplam 20.000 TL tutarındaki ürünler tedarikçiye iade edilmiştir.
+111,Satın Alma,Satın Alma Sözleşmesi,EcoTech firması ile 1 Ocak 2024 tarihinde hizmet sözleşmesi imzalanmıştır. Sözleşme detayları ekte yer almaktadır.
+112,Satın Alma,Ürün İade İşlemi,yazıcı ürünlerinde tespit edilen kusurlar nedeniyle toplam 75.000 TL tutarındaki ürünler tedarikçiye iade edilmiştir.
+113,Satın Alma,Teklif Toplama Raporu,kağıt ve toner ürünleri için 5 tedarikçiden fiyat teklifi alınmıştır. En uygun teklif Global Tech tarafından sunulmuştur.
+114,Satın Alma,Malzeme Sipariş Talebi,Teknik Destek departmanında kullanılan ofis sandalyesi ürünleri stokta kalmamıştır. Acil sipariş gereksinimi doğmuştur. Teklif veren firmalar arasında en uygun fiyat Tech Solutions tarafından sunulmuştur.
+115,Satın Alma,Tedarik Süreci Gecikme Bildirimi,XYZ Firması firmasından alınan klavye ve mouse ürünlerinin teslimatında lojistik sorunlar nedeniyle gecikme yaşanmıştır. Yeni teslim tarihi 25 Temmuz olarak belirlenmiştir.
+116,Satın Alma,Teklif Toplama Raporu,kağıt ve toner ürünleri için 3 tedarikçiden fiyat teklifi alınmıştır. En uygun teklif EcoSupply tarafından sunulmuştur.
+117,Satın Alma,Malzeme Sipariş Talebi,Kalite Yönetimi departmanında kullanılan proje ekranı ürünleri stokta kalmamıştır. Acil sipariş gereksinimi doğmuştur. Teklif veren firmalar arasında en uygun fiyat ABC Tedarik tarafından sunulmuştur.
+118,Satın Alma,Ürün İade İşlemi,sunucu yedek parçası ürünlerinde tespit edilen kusurlar nedeniyle toplam 50.000 TL tutarındaki ürünler tedarikçiye iade edilmiştir.
+119,Satın Alma,Tedarikçi Değerlendirme,EcoTech firmasıyla yapılan işbirliği sonucu teslimat sürelerinde aksaklık yaşandığı tespit edilmiştir. Tedarikçiden iyileştirme planı talep edilmiştir.
+120,Satın Alma,Yeni Satın Alma Politikası,2024 yılı itibariyle şirketin satın alma süreçlerinde çevre dostu ve sürdürülebilir ürünlere öncelik verilecektir. Bu doğrultuda yeni tedarikçi listesi oluşturulmuştur.
+121,Hukuk,Sözleşme Onayı,"satış sözleşmesi, Melis Yıldız tarafından incelenmiş ve onaylanmıştır. Ek sözleşme maddeleri için karşı tarafın onayı beklenmektedir."
+122,Hukuk,Dava Sonuç Bildirimi,tazminat davasının sonucu lehte sonuçlanmıştır olarak açıklanmıştır. Dava sürecine ilişkin detaylar raporda yer almaktadır.
+123,Hukuk,İhlal Bildirimi,Pazarlama departmanında tespit edilen rekabet kuralları ihlaliyle ilgili yasal işlemler başlatılmıştır. Süreç takip edilmektedir.
+124,Hukuk,Yasal Uyarı,Şirketimize gelen ağ sorunları şikayeti doğrultusunda yasal uyarı yapılmıştır. Detaylar hukuk departmanında değerlendirilmektedir.
+125,Hukuk,Sözleşme Değişiklik Bildirimi,hizmet sözleşmesine 1 Temmuz 2024 tarihinde ek maddeler eklenmiştir. Güncellenmiş sözleşme ekte yer almaktadır.
+126,Hukuk,İhlal Bildirimi,Mali İşler departmanında tespit edilen iş sağlığı ve güvenliği ihlaliyle ilgili yasal işlemler başlatılmıştır. Süreç takip edilmektedir.
+127,Hukuk,Hukuki Görüş Raporu,tazminat talebi konusuyla ilgili hukuki görüş hazırlanmıştır. Detaylı rapor ekte yer almaktadır.
+128,Hukuk,Hukuki Görüş Raporu,lisans ihlali konusuyla ilgili hukuki görüş hazırlanmıştır. Detaylı rapor ekte yer almaktadır.
+129,Hukuk,Sözleşme Onayı,"satış sözleşmesi, Cenk Acar tarafından incelenmiş ve onaylanmıştır. Ek sözleşme maddeleri için karşı tarafın onayı beklenmektedir."
+130,Hukuk,Sözleşme Değişiklik Bildirimi,satış sözleşmesine 15 Şubat 2024 tarihinde ek maddeler eklenmiştir. Güncellenmiş sözleşme ekte yer almaktadır.
+131,Hukuk,İhlal Bildirimi,İnsan Kaynakları departmanında tespit edilen veri güvenliği ihlaliyle ilgili yasal işlemler başlatılmıştır. Süreç takip edilmektedir.
+132,Hukuk,Dava Bilgilendirme,Şirketimiz aleyhine açılan tazminat davası ile ilgili ilk duruşma tarihi 20 Şubat olarak belirlenmiştir. Dava detayları ve savunma stratejisi hukuk birimi tarafından hazırlanmaktadır.
+133,Hukuk,Dava Sonuç Bildirimi,tazminat davasının sonucu lehte sonuçlanmıştır olarak açıklanmıştır. Dava sürecine ilişkin detaylar raporda yer almaktadır.
+134,Hukuk,İhlal Bildirimi,Genel Müdürlük departmanında tespit edilen çevre düzenlemeleri ihlaliyle ilgili yasal işlemler başlatılmıştır. Süreç takip edilmektedir.
+135,Hukuk,Uyumluluk Denetimi,Hukuk birimi tarafından şirket içi uyumluluk politikalarının yasal standartlara uygunluğu denetlenmiştir. Tespit edilen eksiklikler için bir rapor hazırlanmıştır.
+136,Hukuk,Dava Sonuç Bildirimi,hak ihlali davasının sonucu lehte sonuçlanmıştır olarak açıklanmıştır. Dava sürecine ilişkin detaylar raporda yer almaktadır.
+137,Hukuk,İhlal Bildirimi,Kalite Yönetimi departmanında tespit edilen iş sağlığı ve güvenliği ihlaliyle ilgili yasal işlemler başlatılmıştır. Süreç takip edilmektedir.
+138,Hukuk,Sözleşme Onayı,"hizmet sözleşmesi, Sevgi Korkmaz tarafından incelenmiş ve onaylanmıştır. Ek sözleşme maddeleri için karşı tarafın onayı beklenmektedir."
+139,Hukuk,Yasal Uyarı,Şirketimize gelen şirket politikaları şikayeti doğrultusunda yasal uyarı yapılmıştır. Detaylar hukuk departmanında değerlendirilmektedir.
+140,Hukuk,Dava Sonuç Bildirimi,patent ihlali davasının sonucu aleyhte sonuçlanmıştır olarak açıklanmıştır. Dava sürecine ilişkin detaylar raporda yer almaktadır.
+141,Hukuk,Uyumluluk Denetimi,Hukuk birimi tarafından şirket içi uyumluluk politikalarının yasal standartlara uygunluğu denetlenmiştir. Tespit edilen eksiklikler için bir rapor hazırlanmıştır.
+142,Hukuk,Yasal Uyarı,Şirketimize gelen ağ sorunları şikayeti doğrultusunda yasal uyarı yapılmıştır. Detaylar hukuk departmanında değerlendirilmektedir.
+143,Hukuk,Uyumluluk Denetimi,Hukuk birimi tarafından şirket içi uyumluluk politikalarının yasal standartlara uygunluğu denetlenmiştir. Tespit edilen eksiklikler için bir rapor hazırlanmıştır.
+144,Hukuk,Dava Bilgilendirme,Şirketimiz aleyhine açılan tazminat davası ile ilgili ilk duruşma tarihi 15 Ocak olarak belirlenmiştir. Dava detayları ve savunma stratejisi hukuk birimi tarafından hazırlanmaktadır.
+145,Hukuk,Sözleşme Değişiklik Bildirimi,tedarik sözleşmesine 15 Nisan 2024 tarihinde ek maddeler eklenmiştir. Güncellenmiş sözleşme ekte yer almaktadır.
+146,Hukuk,Uyumluluk Denetimi,Hukuk birimi tarafından şirket içi uyumluluk politikalarının yasal standartlara uygunluğu denetlenmiştir. Tespit edilen eksiklikler için bir rapor hazırlanmıştır.
+147,Hukuk,Hukuki Görüş Raporu,rekabet yasağı konusuyla ilgili hukuki görüş hazırlanmıştır. Detaylı rapor ekte yer almaktadır.
+148,Hukuk,İhlal Bildirimi,İnsan Kaynakları departmanında tespit edilen iş sağlığı ve güvenliği ihlaliyle ilgili yasal işlemler başlatılmıştır. Süreç takip edilmektedir.
+149,Hukuk,Uyumluluk Denetimi,Hukuk birimi tarafından şirket içi uyumluluk politikalarının yasal standartlara uygunluğu denetlenmiştir. Tespit edilen eksiklikler için bir rapor hazırlanmıştır.
+150,Hukuk,Dava Bilgilendirme,Şirketimiz aleyhine açılan ticari davası ile ilgili ilk duruşma tarihi 1 Haziran olarak belirlenmiştir. Dava detayları ve savunma stratejisi hukuk birimi tarafından hazırlanmaktadır.
+151,Hukuk,Uyumluluk Denetimi,Hukuk birimi tarafından şirket içi uyumluluk politikalarının yasal standartlara uygunluğu denetlenmiştir. Tespit edilen eksiklikler için bir rapor hazırlanmıştır.
+152,Hukuk,Sözleşme Değişiklik Bildirimi,ortaklık sözleşmesine 1 Ocak 2024 tarihinde ek maddeler eklenmiştir. Güncellenmiş sözleşme ekte yer almaktadır.
+153,Hukuk,Uyumluluk Denetimi,Hukuk birimi tarafından şirket içi uyumluluk politikalarının yasal standartlara uygunluğu denetlenmiştir. Tespit edilen eksiklikler için bir rapor hazırlanmıştır.
+154,Hukuk,Hukuki Görüş Raporu,iş sözleşmesi uyuşmazlığı konusuyla ilgili hukuki görüş hazırlanmıştır. Detaylı rapor ekte yer almaktadır.
+155,Hukuk,Hukuki Görüş Raporu,iş sözleşmesi uyuşmazlığı konusuyla ilgili hukuki görüş hazırlanmıştır. Detaylı rapor ekte yer almaktadır.
+156,Hukuk,Dava Sonuç Bildirimi,hak ihlali davasının sonucu lehte sonuçlanmıştır olarak açıklanmıştır. Dava sürecine ilişkin detaylar raporda yer almaktadır.
+157,Hukuk,Sözleşme Değişiklik Bildirimi,tedarik sözleşmesine 1 Temmuz 2024 tarihinde ek maddeler eklenmiştir. Güncellenmiş sözleşme ekte yer almaktadır.
+158,Hukuk,Uyumluluk Denetimi,Hukuk birimi tarafından şirket içi uyumluluk politikalarının yasal standartlara uygunluğu denetlenmiştir. Tespit edilen eksiklikler için bir rapor hazırlanmıştır.
+159,Hukuk,Uyumluluk Denetimi,Hukuk birimi tarafından şirket içi uyumluluk politikalarının yasal standartlara uygunluğu denetlenmiştir. Tespit edilen eksiklikler için bir rapor hazırlanmıştır.
+160,Hukuk,Sözleşme Değişiklik Bildirimi,hizmet sözleşmesine 1 Temmuz 2024 tarihinde ek maddeler eklenmiştir. Güncellenmiş sözleşme ekte yer almaktadır.
+161,Teknik Destek,Sistem Performans Raporu,Doküman Yönetim Sistemi sistemi üzerinde yapılan performans testleri tamamlanmıştır. Test sonuçları ve öneriler raporda yer almaktadır.
+162,Teknik Destek,Sistem Çökmesi,İnsan Kaynakları departmanında kullanılan Muhasebe Yazılımı yazılımında ani bir çökme yaşanmıştır. Bu durum nedeniyle iş akışı kesintiye uğramış ve çözüm için teknik destek ekibi bilgilendirilmiştir.
+163,Teknik Destek,Yazılım Güncellemesi,"Siber Güvenlik Yazılımı yazılımı için kritik bir güncelleme yayınlanmıştır. Güncelleme işlemi, 1 Haziran tarihinde tamamlanacaktır."
+164,Teknik Destek,Ağ Güvenlik Bildirimi,yetkisiz erişim tehdidi tespit edilmiştir. Güvenlik önlemleri artırılmış ve tüm sistemler güncellenmiştir.
+165,Teknik Destek,Şifre Sıfırlama Talebi,ahmet.yilmaz tarafından şifre sıfırlama talebi iletilmiştir. Yeni şifre oluşturulmuş ve kullanıcının e-posta adresine gönderilmiştir.
+166,Teknik Destek,Donanım Sorunu,Kalite Yönetimi çalışanlarının kullandığı proje ekranı cihazlarında yavaş çalışma hatası tespit edilmiştir. Cihazların onarımı için teknik ekip yönlendirilmiştir.
+167,Teknik Destek,Acil Durum Müdahale Raporu,sistem kesintisi olayında acil müdahale ekibi tarafından yapılan işlemler ve çözüm süreci raporlanmıştır.
+168,Teknik Destek,Sistem Çökmesi,Genel Müdürlük departmanında kullanılan CRM Sistemi yazılımında ani bir çökme yaşanmıştır. Bu durum nedeniyle iş akışı kesintiye uğramış ve çözüm için teknik destek ekibi bilgilendirilmiştir.
+169,Teknik Destek,VPN Bağlantı Sorunu,fatma.ozkan tarafından VPN bağlantısı ile ilgili performans düşüklüğü sorunu bildirilmiştir. Sorunun kaynağı belirlenmiş ve çözüm uygulanmıştır.
+170,Teknik Destek,Donanım Envanter Raporu,Satın Alma departmanında kullanılan donanımların envanter raporu hazırlanmıştır. Eksik ve arızalı donanımlar belirlenmiştir.
+171,Teknik Destek,VPN Bağlantı Sorunu,ayse.demir tarafından VPN bağlantısı ile ilgili güvenlik ihlali sorunu bildirilmiştir. Sorunun kaynağı belirlenmiş ve çözüm uygulanmıştır.
+172,Teknik Destek,Antivirüs Taraması Raporu,NB-005 cihazında yapılan antivirüs taraması sonucunda 2 adet tehdit tespit edilmiştir. Temizlik işlemi tamamlanmıştır.
+173,Teknik Destek,Destek Talep Raporu,İnsan Kaynakları departmanından gelen ağ sorunu ile ilgili destek talebi alınmıştır. Çözüm süreci başlatılmıştır.
+174,Teknik Destek,Sistem Performans Raporu,Doküman Yönetim Sistemi sistemi üzerinde yapılan performans testleri tamamlanmıştır. Test sonuçları ve öneriler raporda yer almaktadır.
+175,Teknik Destek,Acil Durum Müdahale Raporu,yetkisiz erişim olayında acil müdahale ekibi tarafından yapılan işlemler ve çözüm süreci raporlanmıştır.
+176,Teknik Destek,Destek Talep Raporu,Kalite Yönetimi departmanından gelen ağ sorunu ile ilgili destek talebi alınmıştır. Çözüm süreci başlatılmıştır.
+177,Teknik Destek,VPN Bağlantı Sorunu,mehmet.kaya tarafından VPN bağlantısı ile ilgili ağ sorunu sorunu bildirilmiştir. Sorunun kaynağı belirlenmiş ve çözüm uygulanmıştır.
+178,Teknik Destek,Bakım Planlaması,yazıcı cihazları için 20 Şubat tarihinde bakım planlanmıştır. Bakım işlemleri sırasında oluşabilecek kesintilere karşı önlemler alınacaktır.
+179,Teknik Destek,Sistem Çökmesi,Eğitim ve Gelişim departmanında kullanılan Veritabanı Yönetim Yazılımı yazılımında ani bir çökme yaşanmıştır. Bu durum nedeniyle iş akışı kesintiye uğramış ve çözüm için teknik destek ekibi bilgilendirilmiştir.
+180,Teknik Destek,Antivirüs Taraması Raporu,NB-005 cihazında yapılan antivirüs taraması sonucunda 5 adet tehdit tespit edilmiştir. Temizlik işlemi tamamlanmıştır.
+181,Teknik Destek,Yedekleme ve Kurtarma Testi,Hibrit Yedekleme sisteminde yedekleme ve veri kurtarma testleri başarıyla tamamlanmıştır. Test sonuçları ve öneriler ekte yer almaktadır.
+182,Teknik Destek,Yedekleme ve Kurtarma Testi,Anlık Yedekleme sisteminde yedekleme ve veri kurtarma testleri başarıyla tamamlanmıştır. Test sonuçları ve öneriler ekte yer almaktadır.
+183,Teknik Destek,E-posta Gönderim Problemi,ahmet.yilmaz tarafından iletilen e-posta gönderim hatasıyla ilgili teknik inceleme yapılmıştır. Sunucu ayarları güncellenmiş ve sorun giderilmiştir.
+184,Teknik Destek,Antivirüs Taraması Raporu,PC-002 cihazında yapılan antivirüs taraması sonucunda 1 adet tehdit tespit edilmiştir. Temizlik işlemi tamamlanmıştır.
+185,Teknik Destek,Yazılım Güncellemesi,"E-posta İstemcisi yazılımı için kritik bir güncelleme yayınlanmıştır. Güncelleme işlemi, 1 Haziran tarihinde tamamlanacaktır."
+186,Teknik Destek,Bakım Planlaması,tablet cihazları için 15 Ocak tarihinde bakım planlanmıştır. Bakım işlemleri sırasında oluşabilecek kesintilere karşı önlemler alınacaktır.
+187,Teknik Destek,Sorun Çözüm Raporu,"donanım arızası sorunu, 4 saat içinde çözülmüştür. Çözüm detayları raporda yer almaktadır."
+188,Teknik Destek,Sistem Performans Raporu,İK Yönetim Sistemi sistemi üzerinde yapılan performans testleri tamamlanmıştır. Test sonuçları ve öneriler raporda yer almaktadır.
+189,Teknik Destek,Yazılım Güncellemesi,"ERP Sistemi yazılımı için kritik bir güncelleme yayınlanmıştır. Güncelleme işlemi, 15 Temmuz tarihinde tamamlanacaktır."
+190,Teknik Destek,Yazılım Güncellemesi,"Muhasebe Yazılımı yazılımı için kritik bir güncelleme yayınlanmıştır. Güncelleme işlemi, 15 Ocak tarihinde tamamlanacaktır."
+191,Teknik Destek,Antivirüs Taraması Raporu,NB-005 cihazında yapılan antivirüs taraması sonucunda 3 adet tehdit tespit edilmiştir. Temizlik işlemi tamamlanmıştır.
+192,Teknik Destek,Acil Durum Müdahale Raporu,kullanıcı hatası olayında acil müdahale ekibi tarafından yapılan işlemler ve çözüm süreci raporlanmıştır.
+193,Teknik Destek,Şifre Sıfırlama Talebi,ayse.demir tarafından şifre sıfırlama talebi iletilmiştir. Yeni şifre oluşturulmuş ve kullanıcının e-posta adresine gönderilmiştir.
+194,Teknik Destek,Ağ Performansı,"Şirket genelinde yaşanan ağ yavaşlaması, kötü amaçlı yazılım nedeniyle kaynaklanmaktadır. Teknik ekip çözüm için çalışmalarını sürdürmektedir."
+195,Teknik Destek,Destek Talep Raporu,Pazarlama departmanından gelen performans düşüklüğü ile ilgili destek talebi alınmıştır. Çözüm süreci başlatılmıştır.
+196,Teknik Destek,Erişim Yetkilendirme Raporu,ali.celik için İK Yönetim Sistemi sistemine erişim yetkisi verilmiştir. Yetkilendirme detayları ve roller raporda belirtilmiştir.
+197,Teknik Destek,Yedekleme ve Kurtarma Testi,Fiziksel Yedekleme sisteminde yedekleme ve veri kurtarma testleri başarıyla tamamlanmıştır. Test sonuçları ve öneriler ekte yer almaktadır.
+198,Teknik Destek,Sistem Çökmesi,Genel Müdürlük departmanında kullanılan Proje Yönetim Aracı yazılımında ani bir çökme yaşanmıştır. Bu durum nedeniyle iş akışı kesintiye uğramış ve çözüm için teknik destek ekibi bilgilendirilmiştir.
+199,Teknik Destek,Bakım Planlaması,yazıcı cihazları için 1 Eylül tarihinde bakım planlanmıştır. Bakım işlemleri sırasında oluşabilecek kesintilere karşı önlemler alınacaktır.
+200,Teknik Destek,Sistem Çökmesi,Genel Müdürlük departmanında kullanılan Veritabanı Yönetim Yazılımı yazılımında ani bir çökme yaşanmıştır. Bu durum nedeniyle iş akışı kesintiye uğramış ve çözüm için teknik destek ekibi bilgilendirilmiştir.
+201,Pazarlama,Kampanya Planı,Yeni reklam kampanyası için Twitter üzerinde çalışmalara başlanmıştır. Kampanyanın hedef kitlesi kurumsal müşteriler olarak belirlenmiştir.
+202,Pazarlama,Reklam Performans Değerlendirmesi,Facebook platformunda yürütülen reklam kampanyası daha yüksek müşteri dönüşüm oranı artış sağlamıştır. Kampanya etkisi detaylı olarak analiz edilmiştir.
+203,Pazarlama,Etkinlik ve Sponsorluk Bildirimi,Yıllık Teknoloji Konferansı etkinliğinde GlobalTech markası sponsor olarak yer alacaktır. Etkinlik detayları ve katılım planı raporlanmıştır.
+204,Pazarlama,Müşteri Anketi,Müşteri memnuniyet anketine toplam 1000 kişi katılmıştır. Anket sonuçlarına göre müşteri şikayet oranı %10 azalmıştır.
+205,Pazarlama,Etkinlik ve Sponsorluk Bildirimi,Yıllık Teknoloji Konferansı etkinliğinde ABC Marka markası sponsor olarak yer alacaktır. Etkinlik detayları ve katılım planı raporlanmıştır.
+206,Pazarlama,Reklam Performans Değerlendirmesi,YouTube platformunda yürütülen reklam kampanyası kampanya başarı oranı %90 artış sağlamıştır. Kampanya etkisi detaylı olarak analiz edilmiştir.
+207,Pazarlama,Kampanya Planı,Yeni reklam kampanyası için Twitter üzerinde çalışmalara başlanmıştır. Kampanyanın hedef kitlesi kurumsal müşteriler olarak belirlenmiştir.
+208,Pazarlama,Reklam Performans Değerlendirmesi,Instagram platformunda yürütülen reklam kampanyası kampanya başarı oranı %90 artış sağlamıştır. Kampanya etkisi detaylı olarak analiz edilmiştir.
+209,Pazarlama,Pazar Araştırma Raporu,"uluslararası pazar alanında yapılan pazar araştırması sonuçları ekte sunulmuştur. Rapor, müşteri tercihleri ve rekabet analizi içermektedir."
+210,Pazarlama,Kampanya Planı,Yeni reklam kampanyası için YouTube üzerinde çalışmalara başlanmıştır. Kampanyanın hedef kitlesi küçük işletme sahipleri olarak belirlenmiştir.
+211,Pazarlama,Kampanya Planı,Yeni reklam kampanyası için Google Ads üzerinde çalışmalara başlanmıştır. Kampanyanın hedef kitlesi genç profesyoneller olarak belirlenmiştir.
+212,Pazarlama,Pazar Araştırma Raporu,"perakende alanında yapılan pazar araştırması sonuçları ekte sunulmuştur. Rapor, müşteri tercihleri ve rekabet analizi içermektedir."
+213,Pazarlama,Marka İşbirliği Teklifi,ABC Marka markası ile işbirliği teklifine olumlu dönüş alınmıştır. İşbirliği süreci hakkında detaylar ekte yer almaktadır.
+214,Pazarlama,Marka İşbirliği Teklifi,ABC Marka markası ile işbirliği teklifine olumlu dönüş alınmıştır. İşbirliği süreci hakkında detaylar ekte yer almaktadır.
+215,Pazarlama,Kampanya Planı,Yeni reklam kampanyası için Instagram üzerinde çalışmalara başlanmıştır. Kampanyanın hedef kitlesi kurumsal müşteriler olarak belirlenmiştir.
+216,Pazarlama,Kampanya Planı,Yeni reklam kampanyası için Facebook üzerinde çalışmalara başlanmıştır. Kampanyanın hedef kitlesi teknoloji meraklıları olarak belirlenmiştir.
+217,Pazarlama,Rakip Analiz Raporu,Global Solutions firmasının son dönemdeki pazarlama faaliyetleri ve stratejileri incelenmiştir. Elde edilen veriler stratejik öneriler ile birlikte raporlanmıştır.
+218,Pazarlama,Müşteri Anketi,Müşteri memnuniyet anketine toplam 250 kişi katılmıştır. Anket sonuçlarına göre müşteri şikayet oranı %10 azalmıştır.
+219,Pazarlama,Müşteri Anketi,Müşteri memnuniyet anketine toplam 2000 kişi katılmıştır. Anket sonuçlarına göre müşteri şikayet oranı %10 azalmıştır.
+220,Pazarlama,Etkinlik ve Sponsorluk Bildirimi,İnovasyon Günleri etkinliğinde EcoBrands markası sponsor olarak yer alacaktır. Etkinlik detayları ve katılım planı raporlanmıştır.
+221,Pazarlama,Müşteri Anketi,Müşteri memnuniyet anketine toplam 1500 kişi katılmıştır. Anket sonuçlarına göre müşteri şikayet oranı %10 azalmıştır.
+222,Pazarlama,Kampanya Planı,Yeni reklam kampanyası için YouTube üzerinde çalışmalara başlanmıştır. Kampanyanın hedef kitlesi genç profesyoneller olarak belirlenmiştir.
+223,Pazarlama,Etkinlik ve Sponsorluk Bildirimi,İnovasyon Günleri etkinliğinde ABC Marka markası sponsor olarak yer alacaktır. Etkinlik detayları ve katılım planı raporlanmıştır.
+224,Pazarlama,Marka İşbirliği Teklifi,XYZ İşbirliği markası ile işbirliği teklifine olumlu dönüş alınmıştır. İşbirliği süreci hakkında detaylar ekte yer almaktadır.
+225,Pazarlama,Sosyal Medya Performans Raporu,Sosyal medya platformlarında daha yüksek müşteri dönüşüm oranı artış gözlemlenmiştir. Kampanya performansı detaylı olarak analiz edilmiştir.
+226,Pazarlama,Rakip Analiz Raporu,Future Tech firmasının son dönemdeki pazarlama faaliyetleri ve stratejileri incelenmiştir. Elde edilen veriler stratejik öneriler ile birlikte raporlanmıştır.
+227,Pazarlama,Pazar Araştırma Raporu,"e-ticaret alanında yapılan pazar araştırması sonuçları ekte sunulmuştur. Rapor, müşteri tercihleri ve rekabet analizi içermektedir."
+228,Pazarlama,Sosyal Medya Performans Raporu,Sosyal medya platformlarında daha yüksek müşteri dönüşüm oranı artış gözlemlenmiştir. Kampanya performansı detaylı olarak analiz edilmiştir.
+229,Pazarlama,Pazar Araştırma Raporu,"toptan satış alanında yapılan pazar araştırması sonuçları ekte sunulmuştur. Rapor, müşteri tercihleri ve rekabet analizi içermektedir."
+230,Pazarlama,Pazar Araştırma Raporu,"B2B alanında yapılan pazar araştırması sonuçları ekte sunulmuştur. Rapor, müşteri tercihleri ve rekabet analizi içermektedir."
+231,Pazarlama,Pazar Araştırma Raporu,"e-ticaret alanında yapılan pazar araştırması sonuçları ekte sunulmuştur. Rapor, müşteri tercihleri ve rekabet analizi içermektedir."
+232,Pazarlama,Müşteri Anketi,Müşteri memnuniyet anketine toplam 250 kişi katılmıştır. Anket sonuçlarına göre müşteri şikayet oranı %10 azalmıştır.
+233,Pazarlama,Reklam Performans Değerlendirmesi,YouTube platformunda yürütülen reklam kampanyası %25 tıklama oranı artışı artış sağlamıştır. Kampanya etkisi detaylı olarak analiz edilmiştir.
+234,Pazarlama,Reklam Performans Değerlendirmesi,Facebook platformunda yürütülen reklam kampanyası kampanya başarı oranı %90 artış sağlamıştır. Kampanya etkisi detaylı olarak analiz edilmiştir.
+235,Pazarlama,Sosyal Medya Performans Raporu,Sosyal medya platformlarında kampanya başarı oranı %90 artış gözlemlenmiştir. Kampanya performansı detaylı olarak analiz edilmiştir.
+236,Pazarlama,Müşteri Anketi,Müşteri memnuniyet anketine toplam 500 kişi katılmıştır. Anket sonuçlarına göre müşteri şikayet oranı %10 azalmıştır.
+237,Pazarlama,Müşteri Anketi,Müşteri memnuniyet anketine toplam 500 kişi katılmıştır. Anket sonuçlarına göre müşteri şikayet oranı %10 azalmıştır.
+238,Pazarlama,Rakip Analiz Raporu,Future Tech firmasının son dönemdeki pazarlama faaliyetleri ve stratejileri incelenmiştir. Elde edilen veriler stratejik öneriler ile birlikte raporlanmıştır.
+239,Pazarlama,Reklam Performans Değerlendirmesi,Twitter platformunda yürütülen reklam kampanyası kampanya başarı oranı %90 artış sağlamıştır. Kampanya etkisi detaylı olarak analiz edilmiştir.
+240,Pazarlama,Marka İşbirliği Teklifi,NextGen Solutions markası ile işbirliği teklifine olumlu dönüş alınmıştır. İşbirliği süreci hakkında detaylar ekte yer almaktadır.
+241,Genel Müdürlük,Risk Yönetimi Raporu,Şirketin pazar alanında potansiyel risk faktörleri değerlendirilmiştir. Alınması gereken önlemler ve aksiyon planları raporlanmıştır.
+242,Genel Müdürlük,Stratejik Planlama,Şirketin 5 yıllık stratejik planı tamamlanmıştır.
+243,Genel Müdürlük,Kurumsal Performans Raporu,Şirketin dördüncü dönemi performans raporu hazırlanmıştır. Finansal ve operasyonel sonuçlar detaylı olarak raporlanmıştır.
+244,Genel Müdürlük,Yönetim Toplantısı Sonuçları,Son yapılan yönetim toplantısının sonuçları paylaşılmıştır.
+245,Genel Müdürlük,Risk Yönetimi Raporu,Şirketin teknolojik alanında potansiyel risk faktörleri değerlendirilmiştir. Alınması gereken önlemler ve aksiyon planları raporlanmıştır.
+246,Genel Müdürlük,Yatırım Planı Bildirimi,AR-GE Merkezi projesine yönelik yatırım planı hazırlanmıştır. Proje detayları ve bütçe bilgileri ekte yer almaktadır.
+247,Genel Müdürlük,Kurumsal Sosyal Sorumluluk Raporu,Eğitime Destek kapsamında gerçekleştirilen sosyal sorumluluk projeleri detaylandırılmıştır. Katılım oranları ve etkileri raporda belirtilmiştir.
+248,Genel Müdürlük,Yatırım Planı Bildirimi,Dijital Dönüşüm projesine yönelik yatırım planı hazırlanmıştır. Proje detayları ve bütçe bilgileri ekte yer almaktadır.
+249,Genel Müdürlük,Genel Duyuru,Tüm birimlere genel bir bilgilendirme yapılmıştır.
+250,Genel Müdürlük,Kurumsal Performans Raporu,Şirketin üçüncü dönemi performans raporu hazırlanmıştır. Finansal ve operasyonel sonuçlar detaylı olarak raporlanmıştır.
+251,Genel Müdürlük,Stratejik Planlama,Şirketin 5 yıllık stratejik planı tamamlanmıştır.
+252,Genel Müdürlük,Kurumsal Performans Raporu,Şirketin üçüncü dönemi performans raporu hazırlanmıştır. Finansal ve operasyonel sonuçlar detaylı olarak raporlanmıştır.
+253,Genel Müdürlük,Risk Yönetimi Raporu,Şirketin pazar alanında potansiyel risk faktörleri değerlendirilmiştir. Alınması gereken önlemler ve aksiyon planları raporlanmıştır.
+254,Genel Müdürlük,Kurumsal Yenilik Bildirimi,Şirketin yenilikçi yaklaşımlarını duyuran bir açıklama yapılmıştır.
+255,Genel Müdürlük,Risk Yönetimi Raporu,Şirketin teknolojik alanında potansiyel risk faktörleri değerlendirilmiştir. Alınması gereken önlemler ve aksiyon planları raporlanmıştır.
+256,Genel Müdürlük,Risk Yönetimi Raporu,Şirketin operasyonel alanında potansiyel risk faktörleri değerlendirilmiştir. Alınması gereken önlemler ve aksiyon planları raporlanmıştır.
+257,Genel Müdürlük,Kurumsal Performans Raporu,Şirketin ilk dönemi performans raporu hazırlanmıştır. Finansal ve operasyonel sonuçlar detaylı olarak raporlanmıştır.
+258,Genel Müdürlük,Kurumsal Sosyal Sorumluluk Raporu,Engelsiz Yaşam kapsamında gerçekleştirilen sosyal sorumluluk projeleri detaylandırılmıştır. Katılım oranları ve etkileri raporda belirtilmiştir.
+259,Genel Müdürlük,Kurumsal Yenilik Bildirimi,Şirketin yenilikçi yaklaşımlarını duyuran bir açıklama yapılmıştır.
+260,Genel Müdürlük,Kurumsal Performans Raporu,Şirketin ilk dönemi performans raporu hazırlanmıştır. Finansal ve operasyonel sonuçlar detaylı olarak raporlanmıştır.
+261,Genel Müdürlük,Kurumsal Yenilik Bildirimi,Şirketin yenilikçi yaklaşımlarını duyuran bir açıklama yapılmıştır.
+262,Genel Müdürlük,Genel Duyuru,Tüm birimlere genel bir bilgilendirme yapılmıştır.
+263,Genel Müdürlük,Kurumsal Performans Raporu,Şirketin ilk dönemi performans raporu hazırlanmıştır. Finansal ve operasyonel sonuçlar detaylı olarak raporlanmıştır.
+264,Genel Müdürlük,Stratejik Planlama,Şirketin 5 yıllık stratejik planı tamamlanmıştır.
+265,Genel Müdürlük,Stratejik Planlama,Şirketin 5 yıllık stratejik planı tamamlanmıştır.
+266,Genel Müdürlük,Kurumsal Yenilik Bildirimi,Şirketin yenilikçi yaklaşımlarını duyuran bir açıklama yapılmıştır.
+267,Genel Müdürlük,Yatırım Planı Bildirimi,Üretim Hattı Modernizasyonu projesine yönelik yatırım planı hazırlanmıştır. Proje detayları ve bütçe bilgileri ekte yer almaktadır.
+268,Genel Müdürlük,Stratejik Planlama,Şirketin 5 yıllık stratejik planı tamamlanmıştır.
+269,Genel Müdürlük,Kurumsal Sosyal Sorumluluk Raporu,Eğitime Destek kapsamında gerçekleştirilen sosyal sorumluluk projeleri detaylandırılmıştır. Katılım oranları ve etkileri raporda belirtilmiştir.
+270,Genel Müdürlük,Kurumsal Sosyal Sorumluluk Raporu,Sosyal İnovasyon kapsamında gerçekleştirilen sosyal sorumluluk projeleri detaylandırılmıştır. Katılım oranları ve etkileri raporda belirtilmiştir.
+271,Genel Müdürlük,Kurumsal Yenilik Bildirimi,Şirketin yenilikçi yaklaşımlarını duyuran bir açıklama yapılmıştır.
+272,Genel Müdürlük,Genel Duyuru,Tüm birimlere genel bir bilgilendirme yapılmıştır.
+273,Genel Müdürlük,Kurumsal Sosyal Sorumluluk Raporu,Engelsiz Yaşam kapsamında gerçekleştirilen sosyal sorumluluk projeleri detaylandırılmıştır. Katılım oranları ve etkileri raporda belirtilmiştir.
+274,Genel Müdürlük,Stratejik Planlama,Şirketin 5 yıllık stratejik planı tamamlanmıştır.
+275,Genel Müdürlük,Yönetim Toplantısı Sonuçları,Son yapılan yönetim toplantısının sonuçları paylaşılmıştır.
+276,Genel Müdürlük,Risk Yönetimi Raporu,Şirketin teknolojik alanında potansiyel risk faktörleri değerlendirilmiştir. Alınması gereken önlemler ve aksiyon planları raporlanmıştır.
+277,Genel Müdürlük,Yatırım Planı Bildirimi,Veri Merkezi projesine yönelik yatırım planı hazırlanmıştır. Proje detayları ve bütçe bilgileri ekte yer almaktadır.
+278,Genel Müdürlük,Risk Yönetimi Raporu,Şirketin finansal alanında potansiyel risk faktörleri değerlendirilmiştir. Alınması gereken önlemler ve aksiyon planları raporlanmıştır.
+279,Genel Müdürlük,Genel Duyuru,Tüm birimlere genel bir bilgilendirme yapılmıştır.
+280,Genel Müdürlük,Risk Yönetimi Raporu,Şirketin finansal alanında potansiyel risk faktörleri değerlendirilmiştir. Alınması gereken önlemler ve aksiyon planları raporlanmıştır.
+281,Kalite Yönetimi,Kalite Kontrol Planı,Üretim süreçleri için yeni bir kalite kontrol planı hazırlanmıştır.
+282,Kalite Yönetimi,Kalite Kontrol Planı,Üretim süreçleri için yeni bir kalite kontrol planı hazırlanmıştır.
+283,Kalite Yönetimi,Hata Analiz Raporu,üretim hatası hatası üzerine yapılan analiz sonuçları açıklanmıştır. Hatanın kaynağı ve çözüm önerileri raporlanmıştır.
+284,Kalite Yönetimi,Müşteri Şikayet Analizi,Müşteri şikayetleri detaylı olarak analiz edilmiştir.
+285,Kalite Yönetimi,Standart Uyumluluk Bildirimi,OHSAS 18001 standardına uyumluluk kontrolü yapılmıştır. Uyum sağlanan ve eksik kalan alanlar raporda belirtilmiştir.
+286,Kalite Yönetimi,İyileştirme Önerisi,Proseslerde iyileştirme yapılması önerilmektedir.
+287,Kalite Yönetimi,Ürün Kalite Test Sonuçları,Ürün A ürününe uygulanan kalite testleri başarıyla tamamlanmıştır. Test sonuçları detaylı şekilde raporlanmıştır.
+288,Kalite Yönetimi,Kalite Kontrol Planı,Üretim süreçleri için yeni bir kalite kontrol planı hazırlanmıştır.
+289,Kalite Yönetimi,Denetim Raporu,Kalite standartları için yapılan denetimlerin raporu sunulmuştur.
+290,Kalite Yönetimi,Ürün Kalite Test Sonuçları,Ürün D ürününe uygulanan kalite testleri başarıyla tamamlanmıştır. Test sonuçları detaylı şekilde raporlanmıştır.
+291,Kalite Yönetimi,Kalite Kontrol Planı,Üretim süreçleri için yeni bir kalite kontrol planı hazırlanmıştır.
+292,Kalite Yönetimi,Süreç İyileştirme Raporu,tedarik zinciri sürecinde yapılan incelemeler sonucunda iyileştirme önerileri belirlenmiştir. Detaylar ekte sunulmuştur.
+293,Kalite Yönetimi,Ürün Kalite Test Sonuçları,Ürün C ürününe uygulanan kalite testleri başarıyla tamamlanmıştır. Test sonuçları detaylı şekilde raporlanmıştır.
+294,Kalite Yönetimi,İyileştirme Önerisi,Proseslerde iyileştirme yapılması önerilmektedir.
+295,Kalite Yönetimi,Denetim Raporu,Kalite standartları için yapılan denetimlerin raporu sunulmuştur.
+296,Kalite Yönetimi,Denetim Raporu,Kalite standartları için yapılan denetimlerin raporu sunulmuştur.
+297,Kalite Yönetimi,Denetim Raporu,Kalite standartları için yapılan denetimlerin raporu sunulmuştur.
+298,Kalite Yönetimi,Müşteri Şikayet Analizi,Müşteri şikayetleri detaylı olarak analiz edilmiştir.
+299,Kalite Yönetimi,İyileştirme Önerisi,Proseslerde iyileştirme yapılması önerilmektedir.
+300,Kalite Yönetimi,Kalite Kontrol Planı,Üretim süreçleri için yeni bir kalite kontrol planı hazırlanmıştır.
+301,Kalite Yönetimi,Kalite Kontrol Planı,Üretim süreçleri için yeni bir kalite kontrol planı hazırlanmıştır.
+302,Kalite Yönetimi,Standart Uyumluluk Bildirimi,ISO 27001 standardına uyumluluk kontrolü yapılmıştır. Uyum sağlanan ve eksik kalan alanlar raporda belirtilmiştir.
+303,Kalite Yönetimi,İyileştirme Önerisi,Proseslerde iyileştirme yapılması önerilmektedir.
+304,Kalite Yönetimi,Müşteri Şikayet Analizi,Müşteri şikayetleri detaylı olarak analiz edilmiştir.
+305,Kalite Yönetimi,Hata Analiz Raporu,süreç uyumsuzluğu hatası üzerine yapılan analiz sonuçları açıklanmıştır. Hatanın kaynağı ve çözüm önerileri raporlanmıştır.
+306,Kalite Yönetimi,Süreç İyileştirme Raporu,üretim sürecinde yapılan incelemeler sonucunda iyileştirme önerileri belirlenmiştir. Detaylar ekte sunulmuştur.
+307,Kalite Yönetimi,Kalite Kontrol Planı,Üretim süreçleri için yeni bir kalite kontrol planı hazırlanmıştır.
+308,Kalite Yönetimi,Kalite Kontrol Planı,Üretim süreçleri için yeni bir kalite kontrol planı hazırlanmıştır.
+309,Kalite Yönetimi,Standart Uyumluluk Bildirimi,ISO 14001 standardına uyumluluk kontrolü yapılmıştır. Uyum sağlanan ve eksik kalan alanlar raporda belirtilmiştir.
+310,Kalite Yönetimi,Standart Uyumluluk Bildirimi,OHSAS 18001 standardına uyumluluk kontrolü yapılmıştır. Uyum sağlanan ve eksik kalan alanlar raporda belirtilmiştir.
+311,Kalite Yönetimi,Kalite Kontrol Planı,Üretim süreçleri için yeni bir kalite kontrol planı hazırlanmıştır.
+312,Kalite Yönetimi,Denetim Raporu,Kalite standartları için yapılan denetimlerin raporu sunulmuştur.
+313,Kalite Yönetimi,Ürün Kalite Test Sonuçları,Ürün C ürününe uygulanan kalite testleri başarıyla tamamlanmıştır. Test sonuçları detaylı şekilde raporlanmıştır.
+314,Kalite Yönetimi,Müşteri Şikayet Analizi,Müşteri şikayetleri detaylı olarak analiz edilmiştir.
+315,Kalite Yönetimi,Müşteri Şikayet Analizi,Müşteri şikayetleri detaylı olarak analiz edilmiştir.
+316,Kalite Yönetimi,Ürün Kalite Test Sonuçları,Ürün E ürününe uygulanan kalite testleri başarıyla tamamlanmıştır. Test sonuçları detaylı şekilde raporlanmıştır.
+317,Kalite Yönetimi,Denetim Raporu,Kalite standartları için yapılan denetimlerin raporu sunulmuştur.
+318,Kalite Yönetimi,İyileştirme Önerisi,Proseslerde iyileştirme yapılması önerilmektedir.
+319,Kalite Yönetimi,Müşteri Şikayet Analizi,Müşteri şikayetleri detaylı olarak analiz edilmiştir.
+320,Kalite Yönetimi,Ürün Kalite Test Sonuçları,Ürün A ürününe uygulanan kalite testleri başarıyla tamamlanmıştır. Test sonuçları detaylı şekilde raporlanmıştır.
+321,Eğitim ve Gelişim,Seminer Duyurusu,Tüm çalışanlara yönelik motivasyon semineri düzenlenmiştir.
+322,Eğitim ve Gelişim,Uzaktan Eğitim Modülü Güncellemesi,İleri Seviye modülü güncellenmiştir. Yeni içerikler ve materyaller eğitim portalında yayınlanmıştır.
+323,Eğitim ve Gelişim,Mesleki Gelişim Eğitimi,Çalışanların mesleki gelişimine katkı sağlamak için eğitim düzenlenmiştir.
+324,Eğitim ve Gelişim,Seminer Duyurusu,Tüm çalışanlara yönelik motivasyon semineri düzenlenmiştir.
+325,Eğitim ve Gelişim,Eğitim İhtiyaç Analizi,Kalite Yönetimi departmanında yapılan analiz sonucunda ihtiyaç duyulan eğitim başlıkları belirlenmiştir. Önerilen eğitim programları raporda yer almaktadır.
+326,Eğitim ve Gelişim,Uzaktan Eğitim Modülü Güncellemesi,Uzmanlık modülü güncellenmiştir. Yeni içerikler ve materyaller eğitim portalında yayınlanmıştır.
+327,Eğitim ve Gelişim,Seminer Duyurusu,Tüm çalışanlara yönelik motivasyon semineri düzenlenmiştir.
+328,Eğitim ve Gelişim,Eğitim Katılım Raporu,Eğitim programlarına katılan çalışanların raporu hazırlanmıştır.
+329,Eğitim ve Gelişim,Seminer Duyurusu,Tüm çalışanlara yönelik motivasyon semineri düzenlenmiştir.
+330,Eğitim ve Gelişim,Uzaktan Eğitim Modülü Güncellemesi,Uzmanlık modülü güncellenmiştir. Yeni içerikler ve materyaller eğitim portalında yayınlanmıştır.
+331,Eğitim ve Gelişim,Eğitim Değerlendirme Raporu,Kalite Yönetimi eğitimi sonrası yapılan değerlendirme sonuçları ekte sunulmuştur. Katılım oranları ve başarı yüzdeleri analiz edilmiştir.
+332,Eğitim ve Gelişim,Eğitim Değerlendirme Raporu,Kişisel Gelişim eğitimi sonrası yapılan değerlendirme sonuçları ekte sunulmuştur. Katılım oranları ve başarı yüzdeleri analiz edilmiştir.
+333,Eğitim ve Gelişim,Eğitim Değerlendirme Raporu,Liderlik Gelişimi eğitimi sonrası yapılan değerlendirme sonuçları ekte sunulmuştur. Katılım oranları ve başarı yüzdeleri analiz edilmiştir.
+334,Eğitim ve Gelişim,Uzaktan Eğitim Modülü Güncellemesi,Sertifikasyon modülü güncellenmiştir. Yeni içerikler ve materyaller eğitim portalında yayınlanmıştır.
+335,Eğitim ve Gelişim,Seminer Duyurusu,Tüm çalışanlara yönelik motivasyon semineri düzenlenmiştir.
+336,Eğitim ve Gelişim,Eğitim İhtiyaç Analizi,Genel Müdürlük departmanında yapılan analiz sonucunda ihtiyaç duyulan eğitim başlıkları belirlenmiştir. Önerilen eğitim programları raporda yer almaktadır.
+337,Eğitim ve Gelişim,Seminer Duyurusu,Tüm çalışanlara yönelik motivasyon semineri düzenlenmiştir.
+338,Eğitim ve Gelişim,Mentorluk Programı Bildirimi,Yeni mentorluk programı 15 Nisan tarihinde başlatılmıştır. Program kapsamında mentor ve mentee eşleştirmeleri tamamlanmıştır.
+339,Eğitim ve Gelişim,Eğitim İhtiyaç Analizi,Eğitim ve Gelişim departmanında yapılan analiz sonucunda ihtiyaç duyulan eğitim başlıkları belirlenmiştir. Önerilen eğitim programları raporda yer almaktadır.
+340,Eğitim ve Gelişim,Eğitim Değerlendirme Raporu,Liderlik Gelişimi eğitimi sonrası yapılan değerlendirme sonuçları ekte sunulmuştur. Katılım oranları ve başarı yüzdeleri analiz edilmiştir.
+341,Eğitim ve Gelişim,Eğitim Katılım Raporu,Eğitim programlarına katılan çalışanların raporu hazırlanmıştır.
+342,Eğitim ve Gelişim,Uzaktan Eğitim Modülü Güncellemesi,Temel Eğitim modülü güncellenmiştir. Yeni içerikler ve materyaller eğitim portalında yayınlanmıştır.
+343,Eğitim ve Gelişim,Mentorluk Programı Bildirimi,Yeni mentorluk programı 1 Ocak tarihinde başlatılmıştır. Program kapsamında mentor ve mentee eşleştirmeleri tamamlanmıştır.
+344,Eğitim ve Gelişim,Eğitim Planlaması,Yeni çalışanlar için oryantasyon eğitimleri planlanmıştır.
+345,Eğitim ve Gelişim,Seminer Duyurusu,Tüm çalışanlara yönelik motivasyon semineri düzenlenmiştir.
+346,Eğitim ve Gelişim,Mentorluk Programı Bildirimi,Yeni mentorluk programı 15 Mayıs tarihinde başlatılmıştır. Program kapsamında mentor ve mentee eşleştirmeleri tamamlanmıştır.
+347,Eğitim ve Gelişim,Eğitim Planlaması,Yeni çalışanlar için oryantasyon eğitimleri planlanmıştır.
+348,Eğitim ve Gelişim,Mentorluk Programı Bildirimi,Yeni mentorluk programı 1 Şubat tarihinde başlatılmıştır. Program kapsamında mentor ve mentee eşleştirmeleri tamamlanmıştır.
+349,Eğitim ve Gelişim,Uzaktan Eğitim Modülü Güncellemesi,Sertifikasyon modülü güncellenmiştir. Yeni içerikler ve materyaller eğitim portalında yayınlanmıştır.
+350,Eğitim ve Gelişim,Seminer Duyurusu,Tüm çalışanlara yönelik motivasyon semineri düzenlenmiştir.
+351,Eğitim ve Gelişim,Uzaktan Eğitim Modülü Güncellemesi,İleri Seviye modülü güncellenmiştir. Yeni içerikler ve materyaller eğitim portalında yayınlanmıştır.
+352,Eğitim ve Gelişim,Eğitim Değerlendirme Raporu,Teknik Yetkinlik eğitimi sonrası yapılan değerlendirme sonuçları ekte sunulmuştur. Katılım oranları ve başarı yüzdeleri analiz edilmiştir.
+353,Eğitim ve Gelişim,Eğitim Değerlendirme Raporu,Kalite Yönetimi eğitimi sonrası yapılan değerlendirme sonuçları ekte sunulmuştur. Katılım oranları ve başarı yüzdeleri analiz edilmiştir.
+354,Eğitim ve Gelişim,Eğitim İhtiyaç Analizi,Mali İşler departmanında yapılan analiz sonucunda ihtiyaç duyulan eğitim başlıkları belirlenmiştir. Önerilen eğitim programları raporda yer almaktadır.
+355,Eğitim ve Gelişim,Eğitim Katılım Raporu,Eğitim programlarına katılan çalışanların raporu hazırlanmıştır.
+356,Eğitim ve Gelişim,Eğitim İhtiyaç Analizi,Pazarlama departmanında yapılan analiz sonucunda ihtiyaç duyulan eğitim başlıkları belirlenmiştir. Önerilen eğitim programları raporda yer almaktadır.
+357,Eğitim ve Gelişim,Mentorluk Programı Bildirimi,Yeni mentorluk programı 1 Şubat tarihinde başlatılmıştır. Program kapsamında mentor ve mentee eşleştirmeleri tamamlanmıştır.
+358,Eğitim ve Gelişim,Mesleki Gelişim Eğitimi,Çalışanların mesleki gelişimine katkı sağlamak için eğitim düzenlenmiştir.
+359,Eğitim ve Gelişim,Eğitim Planlaması,Yeni çalışanlar için oryantasyon eğitimleri planlanmıştır.
+360,Eğitim ve Gelişim,Eğitim İhtiyaç Analizi,Genel Müdürlük departmanında yapılan analiz sonucunda ihtiyaç duyulan eğitim başlıkları belirlenmiştir. Önerilen eğitim programları raporda yer almaktadır.
